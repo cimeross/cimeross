@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cimeross 
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... any beginner level projects that can help me expand my current skills.
 - 📫 How to reach me ... milansuvajac021@gmail.com
 
