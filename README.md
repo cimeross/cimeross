@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @cimeross 
-- 👀 I’m interested in Frontend Development
-- 💞️ I’m looking to collaborate on ... any beginner level projects that can help me expand my current skills.
+- 👋 Hello there, I'm Milan @cimeross!
+- 👀 I'm a passionate frontend developer with a strong interest in software engineering, particularly in the field of web development. I'm always on the lookout for new       technologies and trends to enhance my skills
 - 📫 How to reach me ... milansuvajac021@gmail.com
 
 <!---
